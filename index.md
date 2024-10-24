@@ -15,3 +15,9 @@ observação: Exemplos de títulos em Markdown
 # Adicionando uma imagem
 
 ![Sounds of Earth](https://upload.wikimedia.org/wikipedia/commons/5/56/The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg)
+
+# Adicionando um exemplo de código:
+
+``` python
+print("Hello, world!")
+```
