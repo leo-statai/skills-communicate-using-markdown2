@@ -11,3 +11,7 @@
 ###### Exemplo título 6 H6
 
 observação: Exemplos de títulos em Markdown
+
+# Adicionando uma imagem
+
+![Sounds of Earth](https://upload.wikimedia.org/wikipedia/commons/5/56/The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg)
