@@ -21,3 +21,8 @@ observação: Exemplos de títulos em Markdown
 ``` python
 print("Hello, world!")
 ```
+# Adicionando uma lista de tarefas:
+
+- [x] item 1
+- [ ] item 2
+- [ ] item 3
